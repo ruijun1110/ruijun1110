@@ -1,6 +1,6 @@
 <h1 align="center"> 💫 Hi! I'm Ruijun (Raymond) Wang</h1>
 
-👨‍💻 CS & Business Major | AI/ML Application focus<br>❤️‍🔥 Love to explore the intersection of technology and creativity<br>👀 Actively seeking <ins><strong>internships</strong></ins> or <ins><strong>full-time</strong></ins> positions in software engineering, product development, or product management where I can apply my technical skills and creative mindset to innovative projects
+#### 👨‍💻 CS & Business Major | AI/ML Application focus<br>❤️‍🔥 Love to explore the intersection of technology and creativity<br>👀 Actively seeking <ins><strong>internships</strong></ins> or <ins><strong>full-time</strong></ins> positions in software engineering, product development, or product management where I can apply my technical skills and creative mindset to innovative projects
 
 
 # 🌐 Learn More
