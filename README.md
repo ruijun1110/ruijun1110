@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=inspire&logoColor=white&logoSize=20)](https://linkedin.com/in/ruijunwang) 
 [![GMail](https://img.shields.io/badge/Email-%2300599C.svg?style=flat&logo=gmail&logoColor=white&color=orange)](mailto:ray.ruijun.wang@gmail.com)
 
-### Most RecentProjects
+### Most Recent Projects
 
 ### [AIarm 🌅](https://github.com/ruijun1110/AIARM)
 Your personal AI alarm app that revolutionizes your wake-up experience through AI-powered voice interactions.
